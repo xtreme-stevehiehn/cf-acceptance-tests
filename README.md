@@ -145,6 +145,7 @@ include_apps
 include_detect
 include_persistent_app
 include_routing
+include_v3
 ```
 
 #### The full set of config parameters is explained below:
